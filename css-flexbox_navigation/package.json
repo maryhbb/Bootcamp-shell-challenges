@@ -1,9 +1,0 @@
-{
-  "name": "css-flexbox_navigation",
-  "version": "0.0.0-unreleased",
-  "description": "",
-  "main": "index.html",
-  "nf": {
-    "template": "html-css-static"
-  }
-}
